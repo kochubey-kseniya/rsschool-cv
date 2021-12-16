@@ -30,3 +30,6 @@ Lead Information Security Specialist
 2020 -Html.Css. Html Academy.
 2014- English.Upper-Intermediate (Belhard)
 2007-2012 Belarusian State University of Informatics and Radioelectronics.
+ 
+### Languages
+English - Intermediate 
