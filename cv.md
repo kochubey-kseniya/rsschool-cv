@@ -32,15 +32,13 @@ var new_str = "";
 ```
 
 ## Work Experience  
-2013- 2021  
-Lead Information Security Engineer  
+2013-2021 — Lead Information Security Engineer  
 - Administration of a monitoring system based on Zabbix;
 - Administration of Kaspersky Security Center;
 - Network equipment administration (Cisco);
 - PKI(AVEST CSP,AvPCM);
 - Writing technical documentation.  
-2012-2013 
-Lead Information Security Specialist  
+2012-2013 — Lead Information Security Specialist  
  
 ## Education and Certifications
 2020 -Html.Css. Html Academy.  
