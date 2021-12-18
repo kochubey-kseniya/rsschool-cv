@@ -38,7 +38,7 @@ Lead Information Security Engineer
 - Administration of Kaspersky Security Center;
 - Network equipment administration (Cisco);
 - PKI(AVEST CSP,AvPCM);
-- Writing technical documentation.
+- Writing technical documentation.  
 2012-2013 
 Lead Information Security Specialist  
  
