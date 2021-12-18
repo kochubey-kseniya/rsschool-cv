@@ -38,6 +38,7 @@ var new_str = "";
 - Network equipment administration (Cisco);
 - PKI(AVEST CSP,AvPCM);
 - Writing technical documentation.    
+
 2012-2013 — Lead Information Security Specialist  
  
 ## Education and Certifications
