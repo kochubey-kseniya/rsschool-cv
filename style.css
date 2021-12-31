@@ -1,0 +1,145 @@
+.body{
+font-family: 'Arial', sans-serif;
+font-size: 16px;
+ text-align: center;
+background: #DCDCDC;
+}
+  .container {
+    text-align: left;
+    width: 80%;
+    margin: 0 auto;
+    background: #DCDCDC;
+    padding: 10px 20px 0;
+    color: #2b2929
+
+}
+.nav__list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.nav a {
+  padding: 14px 10px;
+  line-height: 50px;
+  color: #000080;
+}
+.nav a:hover {
+  background-color: #FF8C00;
+}
+.nav a:active {
+  color: white;
+  text-decoration: none;
+}
+   
+.my-name {
+text-align: center;
+font-style: italic;
+}
+   .my-photo {
+    float: right;
+  border: 3px solid #C0C0C0;
+  margin: 0 15px 5px 25px;
+  }
+a {
+  color: #000080;
+  text-decoration: none;
+}
+.bold {
+  font-weight: 700;
+  color: #3c3c3d;
+  font-style: italic;
+}
+
+ a:hover{
+  color: #ff0000;
+}
+.list-item-info {
+list-style: none;
+padding-left: 5px;
+}
+.list-item {
+  padding-left: 5px;
+  list-style-type: dics;
+}
+.work-list  {
+  padding-left: 10px;
+  list-style: none;
+}
+pre {
+	box-sizing: border-box;
+	width: 100%;
+	padding: 0;
+	margin: 0;
+	border: 1px solid #777;
+	color: #333;
+}
+.work-list {
+padding-left:5px;
+ border-left: 6px solid grey;
+}
+.education-list {
+padding-left:5px;
+border-left: 6px solid grey;
+list-style: none;
+}
+.footer_block {
+  background-color:#808080;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.footer-link {
+  color: #410ba0;
+}
+.footer-link:hover {
+  color: #c81b05;
+}
+.footer-text,
+.github {
+  margin: 0;
+}
+.logo {
+  width: 100px;
+  height: 100px;
+}
+
+.left-side{
+    width: 25%;
+    background-color: #C0C0C0;
+    padding: 20px 50px 0 10px;
+    text-align: left;
+}
+.right-side{
+    width: 75%;
+    background-color: #FFFFFF;
+    padding: 20px 50px 0 10px;
+   
+}
+.main{
+    display: flex;
+}
+.nav{
+background-color: #808080;
+
+}
+.nav__item{
+color:#FFFFFF;
+}
+#contact_info{
+margin-top: 40px;
+}
+#contact{
+padding-left:0;
+}
+.my-photo
+{margin-bottom: 20px;
+}
+.projects__image {
+  width: 100%;
+  height: max-content;
+  object-fit: contain;
+  box-shadow: 0 0 0 4px rgba(0, 0, 0, 0.1);
+}
